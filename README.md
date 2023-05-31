@@ -1,18 +1,25 @@
-### Hi there 👋
-
-
-<!--
-**sagarvincent/sagarvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🌞 Sagar Vincent
+
+
+- 🔭 I’m currently doing a Masters in Robotics at University of Birmingham
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on open source projects in software/AI engineering
+- 💬 Ask me about anything in the space of AI
+- 📫 You can reach me by directly messaging on linkedin
+
+There are many projects in this profile. The following is a list of top five projects that are my main priority at this time :
+### 1. IHRD-R
+
+This is robot designed to perform time optimised deliveries to hotel room. The core of the project is finished. There are some further development planned like multi agent delivery, centralised
+
+### 2. WebScrapper
+
+To be updated !!
+
+### 3. Home Monitoring System
+
+To be updated !!
+
+
+
+
