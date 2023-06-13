@@ -10,7 +10,7 @@
 There are many projects in this profile. The following is a list of top five projects that are my main priority at this time :
 ### 1. IHRD-R
 
-This is robot designed to perform time optimised deliveries to hotel room. The core of the project is finished. There are some further development planned like multi agent delivery, centralised
+This is robot designed to perform time optimised deliveries to hotel room. The core of the project is finished. There are some further development planned like multi agent delivery, centralised system for dynamic deployment of multiple robots.
 
 ### 2. WebScrapper
 
