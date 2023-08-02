@@ -12,13 +12,10 @@ There are many projects in this profile. The following is a list of top five pro
 
 This is robot designed to perform time optimised deliveries to hotel room. The core of the project is finished. There are some further development planned like multi agent delivery, centralised system for dynamic deployment of multiple robots.
 
-### 2. WebScrapper
+### 2. Reasoning based architecture for Ad-hoc agent modelling
 
-To be updated !!
+This is my MSc. Robotics dissertation project at the University of Birmingham. The project contributes to the vision of Cognitive Architectures to develop human like Intelligence by mimicking the human cognitive system. 
 
-### 3. Home Monitoring System
-
-To be updated !!
 
 
 
