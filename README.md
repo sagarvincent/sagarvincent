@@ -1,7 +1,7 @@
 # 🌞 Sagar Vincent
 
 
-- 🔭 I’m currently doing a Master's in Robotics at the University of Birmingham
+- 🔭 I’m a graduate in MSc. Robotics from the University of Birmingham
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on open-source projects in software/AI engineering
 - 💬 Ask me about anything in the space of AI
