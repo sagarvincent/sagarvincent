@@ -17,9 +17,11 @@ A website that evaluates your cv against each Job description that you apply for
 
 An AI-powered program that outputs cooking instructions and directions for queries that are issued by the user.
 
-### 3. IHRD-R
+### 3. mini-ASR system
 
-This is a robot designed to perform time-optimized deliveries to hotel rooms. The core of the project is finished. There is some further development planned like multi-agent delivery, a centralized system for the dynamic deployment of multiple robots.
+A custom voice to text model.
+
+
 
 
 
